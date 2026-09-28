@@ -14,7 +14,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'com.gtnewhorizons:retrofuturagradle:1.4.1'
+        classpath 'com.gtnewhorizons:retrofuturagradle:2.0.4'
     }
 }
 
